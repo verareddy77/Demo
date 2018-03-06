@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(true)
         self.view.backgroundColor = .clear
-        print("viewWillApper")
+        print("view")
     }
 
     override func didReceiveMemoryWarning() {
